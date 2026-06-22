@@ -156,3 +156,15 @@ Supervisor: Dr Sophie Koudmani
 This repository contains the implementation and report for the MSc Data Science Final Project:
 
 **"Housing Price Prediction Using Machine Learning and Deep Learning"**
+housing-price-prediction-ml-dl/
+
+README.md
+
+housing_price_prediction.ipynb
+
+Housing_Price_Prediction_Report.pdf
+
+project_files/
+├── Final_Project_Presentation.pdf
+├── Project_Poster.pdf
+└── Additional_Analysis.pdf
